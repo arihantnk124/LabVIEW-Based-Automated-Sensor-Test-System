@@ -1,0 +1,20 @@
+# LabVIEW temporary files
+*.aliases
+*.lvlps
+*.lvclass
+*.lvlibp
+
+# Build folders
+build/
+dist/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
